@@ -12,4 +12,5 @@ Files
  + performance_dls_vs_lambda.py contains a function to perform DLS method for different parameters $\lambda$.
  + performance_dproj_vs_tau.py contains a function to perform Dproj method for different parameters $\tau$.
  + eigs_L_lam.py contains a function to compute eigenvalues of $L(\lambda)$.
- + modules is a directory containing useful python scripts 
+ + modules is a directory containing useful python scripts
+ + dyn_transync.yml contains the Python environment used to obtain the figures.
