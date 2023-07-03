@@ -1,6 +1,6 @@
 # Dynamic_TranSync
 
-This repository contains the code for the paper Dynamic Ranking and Translation Synchronization, Araya et al., 2023 (https://arxiv.org/abs/2207.01455)
+This repository contains the code for the paper Dynamic Ranking and Translation Synchronization, Araya et al., 2023. https://arxiv.org/abs/2207.01455
 
 Files
 
