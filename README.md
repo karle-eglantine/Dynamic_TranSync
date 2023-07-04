@@ -8,6 +8,7 @@ Files
  + Netflix_analysis.ipynb is a notebook that contains the analysis of the Netflix Prize dataset, leading to Table 1 and Figure 6a.
  + EPL_analysis.ipynb is a notebook that contains the analysis of the English Premier League dataset, leading to Table 2 and Figure 6b.
  + dyn_transync.yml: conda environment
+ + Figures is a folder containing all the figures presented in the article.
  + python is a directory containing all the tools used in the notebooks. It contains in particular:
    - transync.py contains a function to perform analysis under the Dynamic TranSync model
    - btl_analysis.py contains a function to perform analysis under the Dynamic BTL model
